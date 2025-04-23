@@ -1,0 +1,3 @@
+npm create vite@latest movie-website --template react
+cd movie-website
+npm install
